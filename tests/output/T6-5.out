@@ -1,0 +1,252 @@
+------------------
+|occupation   |zone 
+------------------
+|student      |55436
+|none         |84010
+|student      |60402
+|student      |22904
+|student      |05146
+|student      |77840
+|other        |48118
+|entertainment|20755
+|student      |20685
+|student      |28734
+|student      |77005
+|none         |94619
+|student      |44106
+|student      |14853
+|student      |24060
+|student      |90210
+|student      |37411
+|student      |92113
+|entertainment|37777
+|student      |83686
+|student      |27514
+|student      |58644
+|student      |48446
+|student      |06333
+|student      |98102
+|student      |77459
+|student      |02146
+|student      |55104
+|student      |17961
+|student      |93003
+|student      |97520
+|student      |44134
+|student      |60402
+|student      |30067
+|none         |94306
+|student      |55454
+|student      |76309
+|student      |92020
+|student      |56567
+|other        |93612
+|student      |97302
+|student      |60152
+|other        |29646
+|student      |60089
+|student      |83702
+|executive    |98101
+|administrator|91344
+|lawyer       |90703
+|educator     |29206
+|scientist    |55106
+|librarian    |02138
+|engineer     |21044
+|programmer   |94043
+|entertainment|01040
+|marketing    |07102
+|administrator|12550
+|educator     |08403
+|healthcare   |06472
+|programmer   |22902
+|other        |44133
+|educator     |20003
+|administrator|89503
+|educator     |78155
+|marketing    |01913
+|executive    |23112
+|artist       |98006
+|retired      |55125
+|educator     |63130
+|engineer     |90630
+|executive    |95032
+|healthcare   |97232
+|librarian    |99603
+|engineer     |78602
+|other        |97365
+|educator     |84408
+|doctor       |53211
+|programmer   |36117
+|technician   |08832
+|programmer   |20910
+|artist       |83814
+|engineer     |70808
+|educator     |27606
+|lawyer       |55104
+|administrator|97212
+|healthcare   |80123
+|educator     |55113
+|other        |80127
+|marketing    |22207
+|other        |22306
+|student      |29440
+|educator     |90840
+|scientist    |93555
+|writer       |55105
+|technician   |75094
+|programmer   |93402
+|lawyer       |06371
+|engineer     |01720
+|salesman     |32605
+|executive    |60659
+|librarian    |01080
+|scientist    |99709
+|retired      |94702
+|administrator|63146
+|engineer     |07733
+|educator     |42647
+|programmer   |55346
+|engineer     |22932
+|executive    |92629
+|engineer     |93550
+|executive    |01581
+|educator     |77904
+|other        |73132
+|retired      |95076
+|scientist    |70802
+|other        |02110
+|marketing    |60035
+|retired      |06518
+|technician   |02139
+|administrator|15235
+|administrator|06779
+|educator     |01720
+|other        |V0R2M
+|executive    |33775
+|engineer     |80123
+|engineer     |30093
+|retired      |61455
+|educator     |49938
+|educator     |10022
+|other        |98027
+|engineer     |01810
+|writer       |08534
+|programmer   |98117
+|engineer     |01824
+|administrator|75204
+|programmer   |45218
+|writer       |59801
+|other        |44092
+|engineer     |94551
+|other        |60008
+|educator     |93109
+|administrator|98225
+|educator     |78212
+|educator     |02140
+|other        |91606
+|educator     |01602
+|doctor       |85258
+|technician   |55013
+|educator     |60201
+|other        |97330
+|administrator|83709
+|technician   |Y1A6B
+|writer       |94583
+|educator     |78628
+|executive    |93711
+|retired      |98257
+|retired      |37771
+|technician   |21012
+|other        |45218
+|educator     |94618
+|programmer   |75006
+|programmer   |03869
+|administrator|26241
+|marketing    |49508
+|healthcare   |12603
+|educator     |02159
+|librarian    |02324
+|educator     |14534
+|writer       |95468
+|scientist    |45680
+|other        |68147
+|educator     |62901
+|executive    |10022
+|retired      |94591
+|student      |55422
+|educator     |20003
+|retired      |48911
+|educator     |53188
+|executive    |98281
+|engineer     |29631
+|librarian    |98501
+|educator     |82435
+|educator     |M4J2K
+|librarian    |77008
+|educator     |80227
+|scientist    |50613
+|educator     |48043
+|engineer     |01940
+|retired      |63645
+|educator     |45810
+|engineer     |91351
+|engineer     |83814
+|retired      |02903
+|educator     |10314
+|librarian    |19102
+|administrator|61820
+|educator     |22906
+|educator     |61462
+|librarian    |23509
+|programmer   |06365
+|other        |94920
+|other        |96754
+|technician   |64118
+|executive    |94306
+|writer       |55113
+|retired      |21201
+|salesman     |91206
+|other        |10960
+|engineer     |00000
+|writer       |27105
+|executive    |90036
+|programmer   |01810
+|programmer   |94560
+|administrator|91040
+|administrator|05779
+|programmer   |12205
+|administrator|78212
+|salesman     |90016
+|administrator|40205
+|engineer     |05452
+|writer       |80209
+|programmer   |53066
+|artist       |10018
+|doctor       |47401
+|writer       |93055
+|doctor       |97405
+|engineer     |02146
+|administrator|94086
+|writer       |40515
+|librarian    |04988
+|educator     |09645
+|other        |60302
+|other        |20902
+|librarian    |50266
+|engineer     |55337
+|scientist    |17036
+|educator     |74075
+|retired      |18505
+|librarian    |70124
+|other        |06512
+|entertainment|60614
+|scientist    |70116
+|entertainment|01701
+|scientist    |53711
+|educator     |33556
+|educator     |06437
+|engineer     |22902
+|doctor       |66221
+|educator     |98072
+------------------
